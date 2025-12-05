@@ -1,0 +1,1 @@
+from .repository import get_lista_medicamentos
